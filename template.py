@@ -21,7 +21,7 @@ list_files = [
     "tests/integration/__init__.py",
     "init_setup.sh",
     "requirements.txt",
-    "requirements_dev.txt"
+    "requirements_dev.txt",
     "pyproject.toml",
     "tox.ini",
     "experiment/experiments.ipynb"
